@@ -1,0 +1,10 @@
+1)I had created the created root js file in index.js.
+2)App.js will be the my root page.
+3)In App.js file , i am rendering the various component which depend on route.
+
+4)Mission.js ----> hiting the Api , which has to be triggered on page load.
+5)After getting data passing it MissionList.js .
+6)In MissionList.js maaping happened and passed it to MissionItem
+7)In MissionItem mapping is trigeered to view.
+8)Have respective CSS style.
+
